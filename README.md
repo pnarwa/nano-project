@@ -19,7 +19,7 @@ In this notebook I’ve analyzed the AirBnB rental properties located in the cit
 * How does the price vary across different months?
 * What property types are expensive to rent?
 * What are the least expensive and most expensive neighborhoods in the Boston area? 
-Towards the end, I build a model to predict the price of a rental property. There are two regression algorithms used to build the prediction model, Linear Regression and Lasso Regression
+Towards the end, I build a model to predict the price of a rental property. There are two regression algorithms used to build the model, Lasso Regression and RandomForest Regression.
 
 
 ## File Descriptions <a name="files"></a>
