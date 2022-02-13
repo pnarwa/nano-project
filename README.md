@@ -28,7 +28,7 @@ The ‘notebooks’ folder contains the IPython notebook related to the analysis
 
 
 ## Results<a name="results"></a>
-
+The URL to the GitHub repository is available [here](https://github.com/pnarwa/nano-project)
 A detailed report of the findings is available in the post [here](https://medium.com/@pnarwa/the-airbnb-boston-scenery-a1c02c2e55e7).
 
 ## Acknowledgements<a name="ack"></a>
